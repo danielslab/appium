@@ -1,9 +1,24 @@
 # Javascript WebdriverIO Client Sample Code
 
 ## Setup
-
+*Sever 
+*Installation via Desktop App Download
 * Must have NodeJS and NPM installed (https://nodejs.org/en/)
+
+*driver
+*There are a number of such drivers that give you access to different kinds of automation technologies, 
+*and each come with their own particular setup requirements. 
+*Most of these requirements are the same requirements as for app development on a specific platform. 
+
+*client
 * Install dependencies by running `npm install`
+*npm install webdriverio
+
+## Verifying the Installation
+
+npm install -g appium-doctor, then run the appium-doctor command, supplying the --ios or --android flags to verify that all of the dependencies are set up correctly.
+
+
 
 ## Running Tests
 
