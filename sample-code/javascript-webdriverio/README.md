@@ -1,18 +1,18 @@
 # Javascript WebdriverIO Client Sample Code
 
 ## Setup
-*Sever 
-*Installation via Desktop App Download
+* Sever 
+* Installation via Desktop App Download
 * Must have NodeJS and NPM installed (https://nodejs.org/en/)
 
-*driver
-*There are a number of such drivers that give you access to different kinds of automation technologies, 
-*and each come with their own particular setup requirements. 
-*Most of these requirements are the same requirements as for app development on a specific platform. 
+* driver
+* There are a number of such drivers that give you access to different kinds of automation technologies, 
+* and each come with their own particular setup requirements. 
+* Most of these requirements are the same requirements as for app development on a specific platform. 
 
-*client
+* client
 * Install dependencies by running `npm install`
-*npm install webdriverio
+* npm install webdriverio
 
 ## Verifying the Installation
 
