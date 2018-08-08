@@ -25,6 +25,18 @@ npm install -g appium-doctor, then run the appium-doctor command, supplying the 
 * To run all of the tests, run `npm test`
 * To run individual tests, run `$(npm bin)/mocha test/path/to/test.js`
 
+* Simply save it and execute it using node
+* node test.js
+
+* you'll see Appium begin spitting out lots of logs and eventually the app will pop up on the screen 
+* and start behaving as if an invisible user were tapping on it!
+
+
+## Syntax
+* ~ prefix means to find an element by its "accessbility id", 
+* which in the case of Android means an element's "content description". 
+
+
 ## Troubleshooting
 
 * ```Original error: '11.1' does not exist in the list of simctl SDKs. Only the following Simulator SDK versions are available on your system: x.y```
